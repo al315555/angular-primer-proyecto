@@ -1,0 +1,30 @@
+{
+  "name": "angular-primer-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al315555/SeekTestRuhimo.git"
+  },
+  "author": "ruhimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al315555/SeekTestRuhimo/issues"
+  },
+  "homepage": "https://github.com/al315555/SeekTestRuhimo#readme",
+  "dependencies": {
+    "@angular/common": "^5.2.7",
+    "@angular/compiler": "^5.2.7",
+    "@angular/core": "^5.2.7",
+    "@angular/platform-browser": "^5.2.7",
+    "@angular/platform-browser-dynamic": "^5.2.7",
+    "core-js": "^2.5.3",
+    "rxjs": "^5.5.6",
+    "systemjs": "^0.21.0",
+    "zone.js": "^0.8.20"
+  }
+}
